@@ -8,27 +8,27 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['212605784394', 'BOBIZ BOT', true],
-  ['212605784394', 'BOBIZ BOT', true],
-  ['212605784394', 'BOBIZ BOT', true],
-  ['212605784394', 'BOBIZ BOT', true],
-  ['212605784394', 'BOBIZ BOT', true],
-  ['212605784394', 'BOBIZ BOT', true],  
-  ['212605784394', 'BOBIZ BOT', true],
-  ['212605784394', 'BOBIZ BOT ', false],
-  ['212605784394'],
-  ['212605784394'],
-  ['212605784394'],
-  ['212605784394'],	
-  ['212605784394'],
-  ['212605784394'],
-  ['212605784394'],
-  ['212605784394'],
-  ['212605784394']
+  ['212723881284', 'BOBIZ BOT', true],
+  ['212723881284', 'BOBIZ BOT', true],
+  ['212723881284', 'BOBIZ BOT', true],
+  ['212723881284', 'BOBIZ BOT', true],
+  ['212723881284', 'BOBIZ BOT', true],
+  ['212723881284', 'BOBIZ BOT', true],  
+  ['212723881284', 'BOBIZ BOT', true],
+  ['212723881284', 'BOBIZ BOT ', false],
+  ['212723881284'],
+  ['212723881284'],
+  ['212723881284'],
+  ['212723881284'],	
+  ['212723881284'],
+  ['212723881284'],
+  ['212723881284'],
+  ['212723881284'],
+  ['212723881284']
 ] 
 
-global.suittag = ['212605784394'] 
-global.prems = ['212605784394'] 
+global.suittag = ['212723881284'] 
+global.prems = ['212723881284'] 
 
 global.packname = '亗『𝐁𝐎𝐁𝐈𝐙𝐀 𝐁𝐎𝐓』亗'
 global.author = 'ミ💖 Noureddine Ouafy 💖彡'
